@@ -1,3 +1,14 @@
+Metadata-Version: 2.1
+Name: calcutils
+Version: 0.1
+Summary: Utility functions for basic arithmetic calculations
+Home-page: https://github.com/bashamega/py_calculator
+Author: Adam Basha
+Author-email: adam.webtools@gmail.com
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: license
+
 # CalcUtils
 
 CalcUtils is a Python package providing various mathematical functions.
