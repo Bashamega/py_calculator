@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='calcutils',
-    version='0.1',
+    version='0.2',
     packages=find_packages(),
     author='Adam Basha',
     author_email='adam.webtools@gmail.com',
